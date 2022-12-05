@@ -2,7 +2,8 @@
 	"name": "Codespaces Rust Starter",
 	"extensions": [
 		"cschleiden.vscode-github-actions",
-		"matklad.rust-analyzer",
+		"rust-lang.rust-analyzer",
+		"bungcip.better-toml",
 		"serayuzgur.crates",
 		"vadimcn.vscode-lldb"
 	],
