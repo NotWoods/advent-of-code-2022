@@ -10,6 +10,7 @@
 	"dockerFile": "Dockerfile",
 	"settings": {
 		"editor.formatOnSave": true,
+		"editor.tabSize": 4,
 		"files.exclude": {
 			"**/CODE_OF_CONDUCT.md": true,
 			"**/LICENSE": true
